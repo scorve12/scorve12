@@ -10,9 +10,9 @@
 
 ## 기술 스택
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccin_mocha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorve12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322)](https://solved.ac/socrve5322/)
+<img src="https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccino" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorve12&layout=compact" height="200">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="200">
 
 ## Platforms & Languages
 
