@@ -10,9 +10,9 @@
 
 ## 기술 스택
 
-<img src="https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccino" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorve12&layout=compact" height="200">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccino" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorve12&layout=compact" height="150">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="150">
 
 ## Platforms & Languages
 
