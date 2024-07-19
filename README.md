@@ -27,7 +27,7 @@
     <tr>
       <th>Lang</th>
       <th>
-        <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Java-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
       </th>
@@ -40,10 +40,16 @@
         <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white" alt="React">
       </th>
     </tr>
-     <tr>
+    <tr>
       <th>DB</th>
       <th>
-          <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=AWS&logoColor=white" alt="AWS">
+      </th>
+    </tr>
+    <tr>
+      <th>Infra</th>
+      <th>
+        <img src="https://img.shields.io/badge/AWS-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
       </th>
     </tr>
   </table>
