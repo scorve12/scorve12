@@ -16,9 +16,8 @@
 
 <div align="center">
   <h3>기술 스택</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccino" height="100">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorve12&layout=compact" height="100">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="100">
+  <img src="https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccino" height="150">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="150">
 </div>
 
 <div align="center">
