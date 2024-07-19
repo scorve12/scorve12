@@ -1,8 +1,7 @@
-
-<a href="https://hits.seeyoufarm.com">
+<div align="left">
+  <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fscorve12&count_bg=%2376ABAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&color=%31363F&lines=Keep+your+eyes+on+the+stars;and;+your+feet+on+the+ground." alt="Typing SVG" />
   </a>
@@ -17,9 +16,9 @@
 
 <div align="center">
   <h3>기술 스택</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccino" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorve12&layout=compact" height="150">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccino" height="100">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorve12&layout=compact" height="100">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="100">
 </div>
 
 <div align="center">
