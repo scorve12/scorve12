@@ -42,7 +42,7 @@
     <tr>
       <th>DB</th>
       <th>
-        <img src="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=AWS&logoColor=white" alt="AWS">
+        <img src="https://img.shields.io/badge/SQL-FF9900.svg?&style=for-the-badge&logo=AWS&logoColor=white" alt="AWS">
       </th>
     </tr>
     <tr>
