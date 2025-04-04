@@ -5,6 +5,14 @@
 </div>
 <br>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=scorve12&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/scorve12?pet-id=663663595984488583"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <div align="center">
   <h3>소개</h3>
   <a href="https://github.com/devxb/gitanimals">
