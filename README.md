@@ -8,11 +8,7 @@
   <h3>Back-End & DB</h3>
 <div>
   <a href="https://skillicons.dev" style="vertical-align: middle;">
-    <img src="https://skillicons.dev/icons?i=spring,django&theme=light" alt="My Skills" />
-  </a>
-  <span style="display: inline-block; width: 1px; height: 40px; background-color: black; margin: 0 10px; vertical-align: middle;"></span>
-  <a href="https://skillicons.dev" style="vertical-align: middle;">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=spring,django,,postgresql,mysql,redis&theme=light" alt="My Skills" />
   </a>
   <h3>Infra</h3>
   <a href="https://skillicons.dev" style="vertical-align: middle;">
@@ -23,11 +19,7 @@
   <h3>Front-End & Design</h3>
 <div>
   <a href="https://skillicons.dev" style="vertical-align: middle;">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,npm&theme=light" alt="My Skills" />
-  </a>
-  <span style="display: inline-block; width: 1px; height: 40px; background-color: black; margin: 0 10px; vertical-align: middle;"></span>
-  <a href="https://skillicons.dev" style="vertical-align: middle;">
-    <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,npm,,figma&theme=light" alt="My Skills" />
   </a>
 </div>
   <!-- Back-End & Infra-->
