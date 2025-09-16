@@ -1,9 +1,4 @@
 <!-- About -->
-<style>
-  ul {
-    margin-bottom: 0 !important;
-  }
-</style>
 <h1>주요 이력 및 경험</h1>
 <div>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=scorve12&utm_content=farm">
@@ -17,7 +12,7 @@
 <div>
 
   <h2>학업 및 경력</h2>
-  <ul>
+  <ul style="margin-bottom: 0;">
     <li>
       <details>
         <summary><b>광주전자 공업고등학교 → 전남도립 대학교 자동차학과 (2017년 ~ 2021년)</b></summary>
