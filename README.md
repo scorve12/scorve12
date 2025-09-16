@@ -15,25 +15,25 @@
   <ul>
     <li>
       <details>
-          <summary><b>광주전자 공업고등학교 → 전남도립 대학교 자동차학과 (2017년 ~ 2021년)</b></summary>
-          <ul>
-              <li>Uni-Tech(일학습병행) 참여 (2018년 ~ 2021년)</li>
-              <li>쌍용북광주서비스 근무 (2018년 ~ 2021년)</li>
-          </ul>
+        <summary><b>광주전자 공업고등학교 → 전남도립 대학교 자동차학과 (2017년 ~ 2021년)</b></summary>
+        <ul>
+          <li>Uni-Tech(일학습병행) 참여 (2018년 ~ 2021년)</li>
+          <li>쌍용북광주서비스 근무 (2018년 ~ 2021년)</li>
+        </ul>
       </details>
     </li>
     <li><b>대한민국 공군 병장 만기전역 (2021년 ~ 2023년)</b></li>
     <li>
       <details>
-          <summary><b>조선대학교 컴퓨터공학과 (2023년 ~ 2025년)</b></summary>
-          <ul>
-              <li>게임제작동아리 Shock Driver 회원 (2023년)</li>
-              <li>조선대학교 Blooming 멘토링 (2023년)</li>
-              <li>창업동아리 판도라 운영진 (2024년)</li>
-              <li>ONE-CARE 골드클럽 스터디 (2024년)</li>
-              <li>컴퓨터네트워크 연구실 학부연구생 (2024년)</li>
-              <li>창업동아리 Produck 회장 (2025년)</li>
-          </ul>
+        <summary><b>조선대학교 컴퓨터공학과 (2023년 ~ 2025년)</b></summary>
+        <ul>
+          <li>게임제작동아리 Shock Driver 회원 (2023년)</li>
+          <li>조선대학교 Blooming 멘토링 (2023년)</li>
+          <li>창업동아리 판도라 운영진 (2024년)</li>
+          <li>ONE-CARE 골드클럽 스터디 (2024년)</li>
+          <li>컴퓨터네트워크 연구실 학부연구생 (2024년)</li>
+          <li>창업동아리 Produck 회장 (2025년)</li>
+        </ul>
       </details>
     </li>
     <li>이트랜씨앤시 인턴 근무 (2024년)</li>
@@ -94,4 +94,3 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="150">
   <img src="https://github-profile-trophy.vercel.app/?username=scorve12&column=-1">
 </div>
-
