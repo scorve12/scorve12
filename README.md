@@ -1,4 +1,9 @@
 <!-- About -->
+<style>
+  ul {
+    margin-bottom: 0 !important;
+  }
+</style>
 <h1>주요 이력 및 경험</h1>
 <div>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=scorve12&utm_content=farm">
@@ -27,8 +32,6 @@
       <details>
         <summary><b>조선대학교 컴퓨터공학과 (2023년 ~ 2025년)</b></summary>
         <ul>
-          <li>게임제작동아리 Shock Driver 회원 (2023년)</li>
-          <li>조선대학교 Blooming 멘토링 (2023년)</li>
           <li>창업동아리 판도라 운영진 (2024년)</li>
           <li>ONE-CARE 골드클럽 스터디 (2024년)</li>
           <li>컴퓨터네트워크 연구실 학부연구생 (2024년)</li>
