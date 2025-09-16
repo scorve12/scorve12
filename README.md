@@ -1,11 +1,12 @@
 <!-- About -->
 <h1>주요 이력 및 경험</h1>
 <div>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=scorve12&utm_content=farm">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=scorve12&utm_content=line">
     <img
-      src="https://render.gitanimals.org/farms/scorve12"
-      width="1200"
-      height="300"/>
+      src="https://render.gitanimals.org/lines/scorve12"
+      width="700"
+      height="120"
+    />
   </a>
 </div>
 
