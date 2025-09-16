@@ -1,20 +1,3 @@
-<style>
-summary {
-    list-style: none;
-    cursor: pointer;
-}
-summary::-webkit-details-marker {
-    display: none;
-}
-summary::before {
-    content: '▶ ';
-    transition: transform 0.2s;
-}
-details[open] summary::before {
-    transform: rotate(90deg);
-}
-</style>
-
 <!-- About -->
 <h1>주요 이력 및 경험</h1>
 <div>
