@@ -4,7 +4,7 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=scorve12&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/scorve12"
-      width="1000"
+      width="1200"
       height="300"/>
   </a>
 </div>
