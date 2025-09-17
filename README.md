@@ -26,12 +26,12 @@
       <ul>
         <li>창업동아리 판도라 운영진 (2024년)</li>
         <li>ONE-CARE 골드클럽 스터디 (2024년)</li>
-        <li>컴퓨터네트워크 연구실 학부연구생 (2024년)</li>
-        <li>창업동아리 Produck 회장 (2025년)</li>
+        <li><a href="./computer-network/README.md">컴퓨터네트워크 연구실 학부연구생 (2024년)</a></li>
+        <li><a href="./produck/README.md">창업동아리 Produck 회장 (2025년)</a></li>
       </ul>
     </li>
     <li><b>이트랜씨앤시 인턴 근무 (2024년)</b></li>
-    <li><a href="./Teunsol/README.md"><b>(주)튼솔 인터네셔널 (2024년)</b></a></li>
+    <li><a href="./teunsol/README.md"><b>(주)튼솔 인터네셔널 (2024년)</b></a></li>
     <li><a href="./drone-field/README.md"><b>(주)드론평야 MVP모델 개발 참여 - API 개발 및 인프라 구축 (2024~2025년)</b></a></li>
     <li><b>INNO-WAY 맞춤형 인턴쉽프로그램 인턴근무 (2025년)</b></li>
   </ul>
