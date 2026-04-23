@@ -66,11 +66,11 @@
 <div>
   <h2>🏆 Awards & Activities</h2>
   <ul>
-    <li>🏆 <a href="./LINC3.0/README.md">LINC3.0 우수학생 선정</a> (2024)</li>
-    <li>🌏 <a href="./SMA2024/README.md">라오스 SMA 2024 학술대회 참가</a> (2024)</li>
-    <li>🥉 <a href="./chosun-ITfesival/README.md">조선대학교 IT Festival 동상</a> (2024)</li>
-    <li>🚀 <a href="./produck/README.md">창업동아리 Produck 회장</a> (2025)</li>
-    <li>🏅 광주광역시 권역 제품제작 역량강화 캠프 우수상 (2025)</li>
+    <li> 🏆<a href="./LINC3.0/README.md">LINC3.0 우수학생 선정</a> (2024)</li>
+    <li> 🌏<a href="./SMA2024/README.md">라오스 SMA 2024 학술대회 참가</a> (2024)</li>
+    <li> 🏆<a href="./chosun-ITfesival/README.md">조선대학교 IT Festival 동상</a> (2024)</li>
+    <li> 🚀<a href="./produck/README.md">창업동아리 Produck 회장</a> (2025)</li>
+    <li> 🏆<a href="https://ns.kdn.com/board.kdn?mid=a10111010000&act=view&bid=0018&list_no=24028">제 11회 2025년 빛가람 에너지밸리 소프트웨어 작품 경진대회 장려상</a></li>
   </ul>
 </div>
 
@@ -89,7 +89,7 @@
 
   <h3>Front-End & Tool</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,npm,figma,discord,postman,vscode,notion&theme=light" alt="Frontend & Tools" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,npm,figma,discord,postman,vscode,notion&theme=light" alt="Frontend & Tools" />
   </a>
 </div>
 
