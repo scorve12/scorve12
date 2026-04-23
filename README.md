@@ -106,7 +106,4 @@
 <!-- ETC -->
 <div>
   <h2>ETC</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccino" height="150">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="150">
-  <img src="https://github-profile-trophy.vercel.app/?username=scorve12&column=-1">
 </div>
